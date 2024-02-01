@@ -16,11 +16,12 @@ body {
 }
 
 main {
-    width: 340px;
-    padding: 1rem;
     background-color: hsl(0, 0%, 100%);
     border-radius: 20px;
+    box-shadow: 5px 5px 25px #b6c0cc;
     margin: 5rem auto;
+    padding: 1rem;
+    width: 340px;
 }
 
 figure {

@@ -1,4 +1,4 @@
-#QR CODE Project 
+# QR CODE Project 
 
 The challenge is to build out this QR code component (Check 'design' folder) and get it looking as close to the design as possible.
 
